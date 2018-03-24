@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-cloud-natural-language.api.streamdata.gallery
+title: Streamdata Gallery Google Cloud Natural Language
+url: google-cloud-natural-language.streamdata.gallery
 tag: Google Cloud Natural Language
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-cloud-natural-language
 github_branch: master
 collections:
