@@ -38,6 +38,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Entities
   /v1/documents:analyzeSentiment:
     post:
@@ -54,6 +55,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Sentiment
   /v1/documents:analyzeSyntax:
     post:
@@ -73,6 +75,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Syntax
   /v1/documents:annotateText:
     post:
@@ -91,6 +94,7 @@ paths:
         200:
           description: OK
       tags:
+      - Machine Learning
       - Annotation
 x-streamrank:
   polling_total_time_average: 0
