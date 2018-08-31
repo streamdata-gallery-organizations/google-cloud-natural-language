@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud Natural Language",
+	"description": "This is a repository of google cloud natural language APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-natural-language.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-natural-language.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud Natural Language",
+			"x-api-slug": "google-cloud-natural-language",
+			"description": "Google Cloud Natural Language API reveals the structure and meaning of text by offering powerful machine learning models in an easy to use REST API. You can use it to extract information about people, places, events and much more, mentioned in text documents, news articles or blog posts. You can use it to understand sentiment about your product on social media or parse intent from customer conversations happening in a call center or a messaging app. You can analyze text uploaded in your request or integrate with your document storage on Google Cloud Storage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png",
+			"humanURL": "https://cloud.google.com/natural-language/",
+			"baseURL": "://language.googleapis.com//",
+			"tags": "Google Cloud Natural Language",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-natural-language/master/_listings/google-cloud-natural-language/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud Natural Language",
+	"include": [
+		{
+			"name": "Google Cloud Natural Language",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-natural-language/master/_listings/google-cloud-natural-language/apis.yaml"
+		}
+	]
+}
